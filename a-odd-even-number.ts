@@ -22,4 +22,4 @@ for(let i : number = 0; i <= numberOddOrEven; i++) {
 }
 
 // Output
-console.log(resultNumberOddEven)
+console.log(resultNumberOddEven);
