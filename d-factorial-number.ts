@@ -14,7 +14,7 @@ for(let i : number = factorialNumber; i >= 1; i--){
 
     // Setiap looping akan menjalankan task yaitu Variable resultFactorial akan dikalikan dengan i(6), dan nilainya akan berubah setiap looping hingga kondisi looping menjadi false
 
-    resultFactorial *= i
+    resultFactorial *= i;
 
 }
 
