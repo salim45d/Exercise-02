@@ -14,7 +14,7 @@ for(let i : number = 2; i <= sumNumber; i++){
 
     // Setiap looping akan menjalankan task yaitu Variable resultSumNumber akan ditambahkan dengan i, dan nilainya akan berubah setiap looping hingga kondisi looping menjadi false
 
-    resultSumNumber += i
+    resultSumNumber += i;
 
 }
 
